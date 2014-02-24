@@ -18,10 +18,13 @@ Please add to the list as you see fit!
 * http://blockchain.info
 
 ## Technical Literature
-* Coming Soon
+* Original Paper by Satoshi
+* Wikis
+* Wikipedia
+* EC Cryptography
 
 ## Mining
-* Coming Soon
+* Coming soon 
 
 ## Trading Tools
 * http://bitcoinwisdom.com/ - Market Charts, Volume, Orderbooks.
@@ -48,13 +51,38 @@ Please add to the list as you see fit!
 * http://www.cryptocoincharts.info/v2/
 * http://cryptofolio.info/
 * http://whatsmyposition.com/
- 
-## Securities, Investments, etc.
+
+## Securities, Investments, etc
 * http://coinflow.co/
 * http://kryptotrader.com/
 * https://cryptostocks.com/
 * http://www.bitcointrust.co/
 * https://www.havelockinvestments.com/
+
+## Exchanges / Retailers
+* Bitstamp
+* BTC-E
+* Mt.Gox - BEWARE, NOT ADVISED TO DEPOSIT UNTIL CURRENT ISSUES ARE RESOLVED
+* Bitfinex
+* Kraken
+* CampBX
+* CoinMKT
+* Coinbase
+* BTC China
+* Huobi
+* LocalBitcoins
+* VirWox
+* Vicure
+* Cryptsy
+* VirtexCAD
+* Bitcoin.de
+* _more exchanges and hyperlinks will be added soon_
+
+## Payment Processors, Merchant Tech
+* Coinbase
+* Coinkite
+* BitPay
+* BitInstant
 
 ## Calculators & Services:
 * http://tradeli.st/
