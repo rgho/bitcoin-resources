@@ -4,6 +4,8 @@ Bitcoin Resources
 I've tried to compile a list of resources and services for bitcoin and other cryptocurrencies. 
 Please add to the list as you see fit!
 
+# Bitcoin Resources:
+
 ## Introduction to Bitcoin (non-technical)
 * https://www.trybtc.com/
 * https://bitcoin.org/
@@ -51,6 +53,8 @@ Please add to the list as you see fit!
 * http://www.cryptocoincharts.info/v2/
 * http://cryptofolio.info/
 * http://whatsmyposition.com/
+* http://charts-bfxdata.rhcloud.com/bitfinexOrderbookBTCUSD.php
+* http://www.bitcoinwatch.com/
 
 ## Securities, Investments, etc
 * http://coinflow.co/
@@ -61,7 +65,7 @@ Please add to the list as you see fit!
 
 ## Exchanges / Retailers
 * Bitstamp
-* BTC-E
+* BTC-E - SEE NOTE AT BOTTOM
 * Mt.Gox - BEWARE, NOT ADVISED TO DEPOSIT UNTIL CURRENT ISSUES ARE RESOLVED
 * Bitfinex
 * Kraken
@@ -90,6 +94,7 @@ Please add to the list as you see fit!
 * http://www.coinpatrol.com/
 * http://bitlegal.net/
 * https://www.predictious.com/
+* http://www.zentrade.io/
 * https://www.bitrated.com/ arbitration
 
 ## News / Community
@@ -103,3 +108,69 @@ Please add to the list as you see fit!
 ## Local Tools
 * http://coinmap.org/
 * https://localbitcoins.com/
+
+## Community / IRC Nodes
+* coming soon
+
+## Blogs to watch
+* http://two-bit-idiot.tumblr.com/
+
+## Prominent Community Members
+* Coming soon
+
+## Github Projects
+* Wallets
+* Desktop
+* Mobile
+* Web
+
+## Unsorted Links, Work in progress.
+* http://www.bitlisten.com/
+* Bitcoin Foundation
+* CoinLab
+* BitPay
+* BitInstant
+* ASICMINER
+* Coinbase
+* Google Ventures Bitcoin?
+* Coinsetter
+* Intersango Avalon
+* BlockChain
+* Coindesk
+* BitcoinStore
+* RippleLabs 
+* Bits of Gold
+* Armory
+* Coinapult
+* Bitcoin Magazine
+* Physical bitcoin of cacacus
+* Butterflylabs
+* Bitstamp
+* Bitangels
+* BitPages
+* CoinX
+* ZipZap
+* TradeHil
+* CoinGig
+* LocalBitcoins
+* Gliph
+* The genesis block
+* W ? 
+* Gyft
+* Expensify
+* Coinabul
+* Payward, Kraken
+* KNC Miner
+* Coinjar
+* alydian
+* CoinURL
+* CasinoBitcoin
+* BitcoinX
+* SecondMarket
+* Bitmit
+* flexCoin
+* BitBox
+* ZeroBlock
+* CampBX
+
+Note: No-one knows the real names of the folks running that exchange. If the exchange disappeared tomorrow, there’d be no-one held accountable.
