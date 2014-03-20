@@ -37,6 +37,7 @@ Please add to the list as you see fit!
 * http://bitcoin-analytics.com/ - Realtime charts, has nice arbitrage section.
 * http://coinfinance.com/
 * http://coinsight.org/#reddit
+* http://www.coinometrics.com/
 * http://coinsight.org/  - Various metrics
 * http://www.bitcoinpulse.com/ - A lot of useful adoption charts
 * http://coinwarz.com - Mining profitability across coins.
