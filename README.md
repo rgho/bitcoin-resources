@@ -36,6 +36,7 @@ Please add to the list as you see fit!
 * http://coinmarketcap.com/ - Market cap of major  cryptos
 * http://bitcoin-analytics.com/ - Realtime charts, has nice arbitrage section.
 * http://coinfinance.com/
+* http://coinstackr.com/
 * http://coinsight.org/#reddit
 * http://www.coinometrics.com/
 * http://coinsight.org/  - Various metrics
