@@ -50,7 +50,9 @@ Please add to the list as you see fit!
 * http://bitcoin.clarkmoody.com/
 * http://trading.i286.org/
 * http://bitcoincharts.com/
+
 * http://bitcoinity.org/markets/
+* http://bitinfocharts.com/
 * http://www.cryptocoincharts.info/v2/
 * http://cryptofolio.info/
 * http://whatsmyposition.com/
@@ -117,6 +119,10 @@ Please add to the list as you see fit!
 
 ## Blogs to watch
 * http://two-bit-idiot.tumblr.com/
+
+## Twitter
+Check here http://twitter.com/davidshares/lists/bitcoin - There's close to 500 of the top bitcoiners on Twitter. You can subscribe directly to the list.
+http://www.reddit.com/r/Bitcoin/comments/212u5v/best_twitter_bitcoin_accounts/
 
 ## Prominent Community Members
 * Coming soon
