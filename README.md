@@ -57,6 +57,8 @@ Please add to the list as you see fit!
 * http://whatsmyposition.com/
 * http://charts-bfxdata.rhcloud.com/bitfinexOrderbookBTCUSD.php
 * http://www.bitcoinwatch.com/
+* http://btctrading.wordpress.com/
+* http://chartfactory.com/
 
 ## Securities, Investments, etc
 * http://coinflow.co/
