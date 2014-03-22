@@ -4,7 +4,6 @@ Bitcoin Resources
 I've tried to compile a list of resources and services for bitcoin and other cryptocurrencies. 
 Please add to the list as you see fit!
 
-# Bitcoin Resources:
 
 ## Introduction to Bitcoin (non-technical)
 * https://www.trybtc.com/
